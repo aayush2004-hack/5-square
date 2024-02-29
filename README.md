@@ -19,3 +19,5 @@ Utilise an Applicant Tracking System (ATS):
 
 Implement an ATS to automate and organise the recruitment process.
 ATS helps in tracking applicants, managing resumes, and streamlining communication.
+<h2>Flow Chart img:-</h2>
+<img src="" alt="flow chart">
